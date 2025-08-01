@@ -2,3 +2,4 @@
 ## This is header h2
 #### This is header h6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of avatar](.avataaars.png)
