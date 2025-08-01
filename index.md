@@ -10,6 +10,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Make a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 # Add image example
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of avatar](.avataaars.png)
+![Image of avatar](avataaars.png)
+
