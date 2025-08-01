@@ -18,4 +18,3 @@ var myVar = "Hello, world!";
 # Add image example
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of avatar](avataaars.png)
-
